@@ -6,11 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Structures & Algorithms with Java, Java Development + Frameworks(Spring boot), Data Science Libraries and ML algorithms.**
 
-- 👨‍💻 All of my projects are available at [dushyant.com](dushyant.com)
-
 - 📫 How to reach me **dushyantchaudhary122@gmail.com**
-
-- 📄 Know about my experiences [docssss.com](docssss.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
