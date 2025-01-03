@@ -1,3 +1,4 @@
+![logo](https://github.com/dushyant1222/dushyant1222/blob/main/snapedit_1735885457195.jpeg)
 <h1 align="center">Hi 👋, I'm Dushyant Kumar</h1>
 <h3 align="center">A passionate data scientist & Java Developer from India</h3>
 
